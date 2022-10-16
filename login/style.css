@@ -73,3 +73,11 @@ body {
 #checkbox {
   margin-left: 2px;
 }
+.after-login{
+  margin-top: 100px;
+  margin-left: 220px;
+  color: rgb(255, 195, 111);
+}
+.login-error{
+  color: red;
+}
